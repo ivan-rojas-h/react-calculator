@@ -13,13 +13,12 @@
 html,
 body {
   font-family: Roboto, sans-serif;
-  background-color: #EEE;
+  background-color: #343550;
   color: var(--TEXT);
 }
 
 h1 {
   margin-bottom: 1.5rem;
-  color: var(--BODY);
 }
 
 .App {
