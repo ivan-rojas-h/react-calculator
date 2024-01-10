@@ -1,0 +1,18 @@
+/* Colors */
+@import url('./Colors.css');
+
+.input {
+  width: 100%;
+  height: 75px;
+  background-color: var(--SCREEN-COLOR);
+  color: var(--BODY);
+  border-radius: 5px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-weight: bold;
+  font-size: 2em;
+  padding: 11px 30px 11px 11px;
+  box-shadow: 0 0 1px var(--BODY);
+}
